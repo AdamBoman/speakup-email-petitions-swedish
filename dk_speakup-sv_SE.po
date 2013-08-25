@@ -1,0 +1,931 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SpeakUp! Email Petitions\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-20 07:06-0700\n"
+"PO-Revision-Date: 2013-08-25 08:20+0100\n"
+"Last-Translator: Adam Boman <adamboman>\n"
+"Language-Team: DesignKode <speakup@designkode.com>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;_n;_nx;_n_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: speakup-email-petitions.php:61
+msgid "Support"
+msgstr "Hjälp"
+
+#: speakup-email-petitions.php:62
+msgid "Donate"
+msgstr "Donera"
+
+#: includes/addnew.php:28 includes/addnew.php:53
+msgid "Edit Email Petition"
+msgstr "Redigera upprop"
+
+#: includes/addnew.php:32 includes/addnew.php:57 includes/addnew.php:76
+msgid "Update Petition"
+msgstr "Uppdatera upprop"
+
+#: includes/addnew.php:39
+#, php-format
+msgid ""
+"Petition created. Use %1$s %2$s %3$s to display in a page or post. Use %1$s "
+"%4$s %3$s to display the signatures list."
+msgstr ""
+"Uppropet har skapats. Använd %1$s %2$s %3$s för att visa det i en sida. "
+"Använd  %1$s %4$s %3$s för att visa listan på underskrifter."
+
+#: includes/addnew.php:72
+msgid "Edit New Email Petition"
+msgstr "Redigera nytt epostupprop"
+
+#: includes/addnew.php:77
+msgid "Petition updated."
+msgstr "Upprop uppdaterat."
+
+#: includes/addnew.php:84
+msgid "Add New Email Petition"
+msgstr "Skapa ett nytt upprop"
+
+#: includes/addnew.php:88
+msgid "Create Petition"
+msgstr "Skapa upprop"
+
+#: includes/addnew.php:90
+msgid "Add me to your mailing list"
+msgstr "Ja tack, jag vill få utskick"
+
+#: includes/addnew.view.php:49
+msgid "Error: Please correct the highlighted fields."
+msgstr "Vänligen rätta de markerade fälten."
+
+#: includes/addnew.view.php:64
+msgid "Enter title here"
+msgstr "Ange namn här"
+
+#: includes/addnew.view.php:71 includes/emailpetition.php:223
+#: includes/help.php:33 includes/petitions.view.php:17
+#: includes/petitions.view.php:26 includes/signatures.php:69
+#: includes/signatures.php:106 includes/signatures.view.php:46
+#: includes/signatures.view.php:58 includes/widget.php:86
+msgid "Petition"
+msgstr "Upprop"
+
+#: includes/addnew.view.php:75 includes/help.php:7
+msgid "Do not send email (only collect signatures)"
+msgstr "Skicka inte epost (samla bara underskrifter)"
+
+#: includes/addnew.view.php:79 includes/help.php:8
+msgid "Target Email"
+msgstr "Mottagarens epostadress"
+
+#: includes/addnew.view.php:82 includes/help.php:9 includes/help.php:70
+#: includes/settings.view.php:127
+msgid "Email Subject"
+msgstr "Ärenderad"
+
+#: includes/addnew.view.php:85 includes/help.php:10
+msgid "Greeting"
+msgstr "Hälsning"
+
+#: includes/addnew.view.php:90 includes/help.php:11
+msgid "Petition Message"
+msgstr "Uppropstext"
+
+#: includes/addnew.view.php:97 includes/help.php:14 includes/help.php:38
+msgid "Twitter Message"
+msgstr "Twittermeddelande"
+
+#: includes/addnew.view.php:112 includes/help.php:43
+msgid "Petition Options"
+msgstr "Inställningar"
+
+#: includes/addnew.view.php:121 includes/help.php:17
+msgid "Confirm signatures"
+msgstr "Bekräfta underskrifter"
+
+#: includes/addnew.view.php:124
+msgid "Return URL"
+msgstr "URL att återvända till"
+
+#: includes/addnew.view.php:133 includes/help.php:18
+msgid "Allow custom messages"
+msgstr "Tillåt anpassat meddelande"
+
+#: includes/addnew.view.php:141 includes/help.php:19
+msgid "Set signature goal"
+msgstr "Ange mål för antal underskrifter"
+
+#: includes/addnew.view.php:144 includes/petitions.view.php:20
+#: includes/petitions.view.php:29
+msgid "Goal"
+msgstr "Mål"
+
+#: includes/addnew.view.php:153 includes/help.php:20
+msgid "Set expiration date"
+msgstr "Ange slutdatum"
+
+# Month
+#: includes/addnew.view.php:157
+msgid "Jan"
+msgstr "jan"
+
+# Month
+#: includes/addnew.view.php:158
+msgid "Feb"
+msgstr "feb"
+
+# Month
+#: includes/addnew.view.php:159
+msgid "Mar"
+msgstr "mar"
+
+# Month
+#: includes/addnew.view.php:160
+msgid "Apr"
+msgstr "apr"
+
+# Month
+#: includes/addnew.view.php:161
+msgid "May"
+msgstr "maj"
+
+# Month
+#: includes/addnew.view.php:162
+msgid "Jun"
+msgstr "jun"
+
+# Month
+#: includes/addnew.view.php:163
+msgid "Jul"
+msgstr "jul"
+
+# Month
+#: includes/addnew.view.php:164
+msgid "Aug"
+msgstr "aug"
+
+# Month
+#: includes/addnew.view.php:165
+msgid "Sep"
+msgstr "sep"
+
+# Month
+#: includes/addnew.view.php:166
+msgid "Oct"
+msgstr "okt"
+
+# Month
+#: includes/addnew.view.php:167
+msgid "Nov"
+msgstr "nov"
+
+# Month
+#: includes/addnew.view.php:168
+msgid "Dec"
+msgstr "dec"
+
+#: includes/addnew.view.php:190 includes/help.php:48
+msgid "Display Options"
+msgstr "Visningsinställningar"
+
+#: includes/addnew.view.php:199 includes/help.php:23
+msgid "Display address fields"
+msgstr "Visa adressfält"
+
+#: includes/addnew.view.php:203 includes/emailpetition.php:96
+#: includes/widget.php:234
+msgid "Street"
+msgstr "Adress"
+
+#: includes/addnew.view.php:206 includes/csv.php:47
+#: includes/emailpetition.php:104 includes/settings.view.php:98
+#: includes/widget.php:241
+msgid "City"
+msgstr "Postort"
+
+#: includes/addnew.view.php:209 includes/emailpetition.php:111
+#: includes/settings.view.php:101 includes/widget.php:248
+msgid "State / Province"
+msgstr "Län"
+
+#: includes/addnew.view.php:212 includes/csv.php:49
+#: includes/emailpetition.php:121 includes/settings.view.php:104
+#: includes/widget.php:258
+msgid "Post Code"
+msgstr "Postnummer"
+
+#: includes/addnew.view.php:215 includes/csv.php:50
+#: includes/emailpetition.php:128 includes/settings.view.php:107
+#: includes/widget.php:265
+msgid "Country"
+msgstr "Land"
+
+#: includes/addnew.view.php:223 includes/help.php:24
+msgid "Display custom field"
+msgstr "Visa anpassat fält"
+
+#: includes/addnew.view.php:226 includes/addnew.view.php:238
+msgid "Label"
+msgstr "Rubrik"
+
+#: includes/addnew.view.php:235 includes/help.php:25
+msgid "Display opt-in checkbox"
+msgstr "Visa ruta för utskick"
+
+#: includes/admin.php:9 includes/admin.php:10 includes/petitions.php:44
+#: includes/petitions.php:55
+msgid "Email Petitions"
+msgstr "Epostupprop"
+
+#: includes/admin.php:20 includes/admin.php:21 includes/petitions.view.php:4
+msgid "Add New"
+msgstr "Lägg till nytt"
+
+#: includes/admin.php:30 includes/admin.php:31 includes/petitions.view.php:19
+#: includes/petitions.view.php:28 includes/signatures.view.php:4
+msgid "Signatures"
+msgstr "Underskrifter"
+
+#: includes/admin.php:40 includes/settings.view.php:4
+msgid "Email Petitions Settings"
+msgstr "Uppropsinställningar"
+
+#: includes/admin.php:41
+msgid "Settings"
+msgstr "Inställningar"
+
+#: includes/class.petition.php:185
+msgid "No Title"
+msgstr "Namnlös"
+
+#: includes/class.speakup.php:117
+msgid "items"
+msgstr "st"
+
+#: includes/class.speakup.php:131 includes/class.speakup.php:134
+msgid "of"
+msgstr "av"
+
+#: includes/confirmations.php:52
+msgid "Thank you. Your signature has been added to the petition."
+msgstr "Tack för att du skrev under uppropet."
+
+#: includes/confirmations.php:57
+msgid "Your signature has already been confirmed."
+msgstr "Din underskrift har redan bekräftats."
+
+#: includes/confirmations.php:61
+msgid "The confirmation code you provided is invalid."
+msgstr "Koden för att bekräfta underskriften är tyvärr felaktig."
+
+#: includes/confirmations.php:96
+msgid "Email Confirmation"
+msgstr "Epostbekräftelse"
+
+#: includes/confirmations.php:98
+msgid "You will be redirected momentarily."
+msgstr "Du skickas vidare inom kort."
+
+#: includes/csv.php:9 includes/signatures.php:5
+msgid "Insufficient privileges: You need to be an editor to do that."
+msgstr "Du har inte tillräckliga behörigheter för att göra det."
+
+#: includes/csv.php:22 includes/signatures.view.php:66
+msgid "No signatures found."
+msgstr "Inga underskrifter kunde hittas."
+
+#: includes/csv.php:43 includes/emailpetition.php:75 includes/widget.php:213
+msgid "First Name"
+msgstr "Förnamn"
+
+#: includes/csv.php:44 includes/emailpetition.php:79 includes/widget.php:217
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: includes/csv.php:45
+msgid "Email Address"
+msgstr "Epostadress"
+
+#: includes/csv.php:46
+msgid "Street Address"
+msgstr "Postadress"
+
+#: includes/csv.php:48
+msgid "State"
+msgstr "Ort"
+
+#: includes/csv.php:51
+msgid "Date Signed"
+msgstr "Datum"
+
+#: includes/csv.php:52 includes/signatures.view.php:47
+#: includes/signatures.view.php:59
+msgid "Confirmed"
+msgstr "Bekräftad"
+
+#: includes/csv.php:53
+msgid "Petition Title"
+msgstr "Uppropsnamn"
+
+#: includes/csv.php:54
+msgid "Petition ID"
+msgstr "UppropsID"
+
+#: includes/csv.php:55
+msgid "Email Opt-in"
+msgstr "Vill få utskick"
+
+#: includes/csv.php:56
+msgid "Custom Message"
+msgstr "Anpassat meddelande"
+
+#: includes/csv.php:57
+msgid "Language"
+msgstr "Språk"
+
+#: includes/csv.php:67 includes/settings.view.php:110
+msgid "Custom Field"
+msgstr "Anpassat fält"
+
+#: includes/csv.php:83 includes/signatures.view.php:76
+msgid "confirmed"
+msgstr "bekräftad"
+
+#: includes/csv.php:86 includes/signatures.view.php:78
+msgid "unconfirmed"
+msgstr "inte bekräftad"
+
+#: includes/csv.php:94 includes/signatures.view.php:84
+msgid "yes"
+msgstr "ja"
+
+#: includes/csv.php:97 includes/signatures.view.php:86
+msgid "no"
+msgstr "nej"
+
+#: includes/emailpetition.php:67
+msgid "Read the petition"
+msgstr "Läs uppropet"
+
+#: includes/emailpetition.php:83 includes/signatures.view.php:45
+#: includes/signatures.view.php:57 includes/widget.php:221
+msgid "Email"
+msgstr "Epost"
+
+#: includes/emailpetition.php:89 includes/widget.php:227
+msgid "Confirm Email"
+msgstr "Bekräfta epostadressen"
+
+#: includes/emailpetition.php:148 includes/emailpetition.php:155
+#: includes/emailpetition.php:176 includes/emailpetition.php:205
+#: includes/widget.php:161 includes/widget.php:178 includes/widget.php:187
+msgid "signature"
+msgstr "underskrift"
+
+#: includes/emailpetition.php:195 includes/widget.php:207
+msgid "Signature goal"
+msgstr "Målsättning för antal underskrifter"
+
+#: includes/emailpetition.php:200 includes/widget.php:203
+msgid "End date"
+msgstr "Slutdatum"
+
+#: includes/emailpetition.php:201 includes/widget.php:204
+msgid "Signatures collected"
+msgstr "Insamlade underskrifter"
+
+#: includes/emailpetition.php:225
+msgid "Error: You must include a valid id."
+msgstr "Fel: Du behöver inkludera ett giligt id."
+
+#: includes/help.php:6 includes/help.php:75 includes/settings.view.php:81
+#: includes/widget.php:83
+msgid "Title"
+msgstr "Namn"
+
+#: includes/help.php:6
+msgid ""
+"Enter the title of your petition, which will appear at the top of the "
+"petition form."
+msgstr ""
+"Ange ett namn på uppropet. Namnet visas överst i formuläret för att skriva "
+"under."
+
+#: includes/help.php:7
+msgid ""
+"Use this option if do not wish to send petition emails to a target address."
+msgstr "Kryssa för om du inte vill skicka uppropet till en mottagaradress."
+
+#: includes/help.php:8
+msgid ""
+"Enter the email address to which the petition will be sent. You may enter "
+"multiple email addresses, separated by commas."
+msgstr ""
+"Ange epostadress till den eller de som ska motta uppropet. Det går bra att "
+"fylla i fler än en adress om de avskiljs med kommatecken."
+
+#: includes/help.php:9
+msgid "Enter the subject of your petition email."
+msgstr "Ange en ärenderad för uppropets epostmeddelande."
+
+#: includes/help.php:10
+msgid ""
+"Include a greeting to the recipient of your petition, such as \"Dear Sir,\" "
+"which will appear as the first line of the email."
+msgstr ""
+"Inkludera en hälsning till mottagaren av uppropet, t.ex. \"Kära "
+"statsminister,\". Detta blir den första raden i epostmeddelandet."
+
+#: includes/help.php:11
+msgid "Enter the content of your petition email."
+msgstr "Ange innehållet i uppropet."
+
+#: includes/help.php:14
+msgid ""
+"Enter a prepared tweet that will be presented to users when the Twitter "
+"button is clicked."
+msgstr "Ange ett meddelande som användaren kan twittra."
+
+#: includes/help.php:17
+msgid ""
+"Use this option to cause an email to be sent to the signers of your "
+"petition. This email contains a special link must be clicked to confirm the "
+"signer's email address. Petition emails will not be sent until the signature "
+"is confirmed."
+msgstr ""
+"Kryssa för om underskrifter ska bekräftas. När någon skriver under uppropet "
+"skickas ett epostmeddelande till den adress som anges. Uppropet skickas "
+"först när länken i meddelandet har klickats."
+
+#: includes/help.php:18
+msgid ""
+"Check this option to allow signatories to customize the text of their "
+"petition email."
+msgstr "Kryssa för om undertecknaren ska kunna anpassa texten i uppropet."
+
+#: includes/help.php:19
+msgid ""
+"Enter the number of signatures you hope to collect. This number is used to "
+"calculate the progress bar display."
+msgstr ""
+"Ange ett mål för hur många underskrifter som ska samlas in. Detta antal "
+"ligger till grund för mätaren som visas."
+
+#: includes/help.php:20
+msgid "Use this option to stop collecting signatures on a specific date."
+msgstr "Ange ett slutdatum om uppropet ska upphöra ett visst datum"
+
+#: includes/help.php:23
+msgid "Select the address fields to display in the petition form."
+msgstr "Kryssa för om adressfält ska finnas med i uppropet."
+
+#: includes/help.php:24
+msgid "Add a custom field to the petition form for collecting additional data."
+msgstr ""
+"Lägg till ett extra fält till uppropet, för att samla ytterligare "
+"information."
+
+#: includes/help.php:25
+msgid ""
+"Include a checkbox that allows users to consent to receiving further email."
+msgstr ""
+"Inkludera en kryssruta som låter användarna ange om de vill ta emot utskick."
+
+#: includes/help.php:56
+msgid ""
+"These settings control the display of the [emailpetition] shortcode and "
+"sidebar widget."
+msgstr "Inställningar för visning av shortcode [emailpetition] och widget."
+
+#: includes/help.php:57 includes/settings.view.php:23
+msgid "Petition Theme"
+msgstr "Uppropstema"
+
+#: includes/help.php:57
+msgid "Select a CSS theme that will control the appearance of petition forms."
+msgstr "Välj ett CSS-tema som styr formulärets utseende."
+
+#: includes/help.php:58 includes/settings.view.php:30
+msgid "Widget Theme"
+msgstr "Widgettema"
+
+#: includes/help.php:58
+msgid ""
+"Select a CSS theme that will control the appearance of petition widgets."
+msgstr "Välj ett CSS-tema som styr utseendet på widgeten."
+
+#: includes/help.php:59 includes/settings.view.php:37
+msgid "Submit Button Text"
+msgstr "Knappens text"
+
+#: includes/help.php:59
+msgid ""
+"Enter the text that displays in the orange submit button on petition forms."
+msgstr ""
+"Ange vilken text som ska visas i knappen för att skriva under uppropet."
+
+#: includes/help.php:60 includes/settings.view.php:41
+msgid "Success Message"
+msgstr "Text vid underskrift"
+
+#: includes/help.php:60
+msgid ""
+"Enter the text that appears when a user successfully signs your petition "
+"with a unique email address."
+msgstr ""
+"Ange det meddelande som visas när en användare framgångsrikt skrivit under "
+"uppropet."
+
+#: includes/help.php:61 includes/settings.view.php:49
+msgid "Share Message"
+msgstr "Text för spridning"
+
+#: includes/help.php:61
+msgid ""
+"Enter the text that appears above the Twitter and Facebook buttons after the "
+"petition form has been submitted."
+msgstr ""
+"Ange den text som visas över Twitter- och Facebookknapparna när uppropet har "
+"skrivits under."
+
+#: includes/help.php:62 includes/settings.view.php:53
+msgid "Expiration Message"
+msgstr "Text vid utgånget upprop"
+
+#: includes/help.php:62
+msgid ""
+"Enter the text to display in place of the petition form when a petition is "
+"past its expiration date."
+msgstr ""
+"Ange den text som visas i stället för formuläret när uppropet har nått sitt "
+"slutdatum."
+
+#: includes/help.php:63 includes/settings.view.php:57
+msgid "Already Signed Message"
+msgstr "Text vid redan påskrivet"
+
+#: includes/help.php:63
+msgid ""
+"Enter the text to display when a petition is signed using an email address "
+"that has already been submitted."
+msgstr ""
+"Ange den text som visas om en epostadress redan har använts för att skriva "
+"under uppropet."
+
+#: includes/help.php:64 includes/settings.view.php:61
+msgid "Opt-in Default"
+msgstr "\"Önskar utskick\" automatiskt förkryssad?"
+
+#: includes/help.php:64
+msgid "Choose whether the opt-in checkbox is checked or unchecked by default."
+msgstr ""
+"Välj om kryssrutan för att få utskick ska vara förkryssad automatiskt eller "
+"inte."
+
+#: includes/help.php:65 includes/settings.view.php:68
+msgid "Display signature count"
+msgstr "Visa antal underskrifter"
+
+#: includes/help.php:65
+msgid ""
+"Choose whether you wish to display the number of signatures that have been "
+"collected."
+msgstr "Välj om du vill visa en mätare med antal underskrifter som samlats in."
+
+#: includes/help.php:68
+msgid "These settings control the content of the confirmation emails."
+msgstr "Inställningar för bekräftelse-epost."
+
+#: includes/help.php:69 includes/settings.view.php:123
+msgid "Email From"
+msgstr "Avsändare"
+
+#: includes/help.php:69
+msgid ""
+"Enter the email address associated with your website. Confirmation emails "
+"will be sent from this address."
+msgstr ""
+"Ange en epostadress som hör till din webbplats eller organisation. "
+"Bekräftelse-epost kommer att skickas från denna adress."
+
+#: includes/help.php:70
+msgid "Enter the subject of the confirmation email."
+msgstr "Ange ärenderaden för bekräftelse-epost."
+
+#: includes/help.php:71 includes/settings.view.php:131
+msgid "Email Message"
+msgstr "Meddelande"
+
+#: includes/help.php:71
+msgid "Enter the content of the confirmation email."
+msgstr "Ange den text som skickas som bekräftelse-epost."
+
+#: includes/help.php:74
+msgid "These settings control the display of the [signaturelist] shortcode."
+msgstr "Inställningar för visning av shortcode [signaturelist]."
+
+#: includes/help.php:75
+msgid "Enter the text that appears above the signature list."
+msgstr "Ange den rubrik som visas över listan över senaste underskrifter."
+
+#: includes/help.php:76 includes/settings.view.php:84
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/help.php:76
+msgid "Select a CSS theme that will control the appearance of signature lists."
+msgstr "Välj ett CSS-tema som styr signaturlistans utseende."
+
+#: includes/help.php:77 includes/settings.view.php:91
+msgid "Rows"
+msgstr "Rader"
+
+#: includes/help.php:77
+msgid ""
+"Enter the number of signatures that will be displayed in the signature list."
+msgstr "Ange hur många underskrifter som ska visas i listan."
+
+#: includes/help.php:78 includes/settings.view.php:95
+msgid "Columns"
+msgstr "Kolumner"
+
+#: includes/help.php:78
+msgid "Select the columns that will appear in the signature list."
+msgstr "Ange vilka kolumner som visas i listan över senaste underskrifter."
+
+#: includes/help.php:81
+msgid ""
+"These settings control the look of the plugin's options pages within the "
+"WordPress administrator."
+msgstr ""
+"Här kan du styra hur administrationen i WordPress ser ut för denna plugin."
+
+#: includes/help.php:82 includes/settings.view.php:144
+msgid "Petitions table shows"
+msgstr "Uppropstabellens storlek"
+
+#: includes/help.php:82
+msgid "Enter the number of rows to display in the \"Email Petitions\" table"
+msgstr "Ange hur många rader som ska visas i tabellen \"Epostupprop\""
+
+#: includes/help.php:83 includes/settings.view.php:148
+msgid "Signatures table shows"
+msgstr "Underskrifttabellens storlek"
+
+#: includes/help.php:83
+msgid "Enter the number of rows to display in the \"Signatures\" table"
+msgstr "Ange hur många rader som ska visas i tabellen \"Underskrifter\""
+
+#: includes/help.php:84 includes/settings.view.php:152
+msgid "CSV file includes"
+msgstr "CSV-filen innehåller"
+
+#: includes/help.php:84
+msgid ""
+"Select the subset of signatures that will be included in CSV file downloads"
+msgstr ""
+"Ange vilka signaturer som ska vara med i den CSV-fil som kan laddas ner"
+
+#: includes/help.php:92 includes/settings.view.php:13
+#: includes/settings.view.php:20
+msgid "Petition Form"
+msgstr "Formulär för uppropet"
+
+#: includes/help.php:97 includes/settings.view.php:14
+#: includes/settings.view.php:78
+msgid "Signature List"
+msgstr "Lista över underskrifter"
+
+#: includes/help.php:102 includes/settings.view.php:15
+#: includes/settings.view.php:120
+msgid "Confirmation Emails"
+msgstr "Bekräftelse-epost"
+
+#: includes/help.php:107 includes/settings.view.php:16
+#: includes/settings.view.php:141
+msgid "Admin Display"
+msgstr "Administration"
+
+#: includes/install.php:64
+msgid "Sign Now"
+msgstr "Underteckna nu"
+
+#: includes/install.php:65
+msgid "This petition is now closed."
+msgstr "Uppropet har nu avslutats."
+
+#: includes/install.php:66
+msgid "Thank you"
+msgstr "Tack"
+
+#: includes/install.php:66
+msgid "Your signature has been added."
+msgstr "Din underskrift har lagts till på uppropet."
+
+#: includes/install.php:67
+msgid "This petition has already been signed using your email address."
+msgstr "Det här uppropet har redan undertecknats med din epostadress."
+
+#: includes/install.php:68
+msgid "Share this with your friends:"
+msgstr "Sprid uppropet till dina vänner:"
+
+#: includes/install.php:69 includes/install.php:189
+msgid "Please confirm your email address"
+msgstr "Vänligen bekräfta din epostadress"
+
+#: includes/install.php:70 includes/install.php:192
+msgid "Hello"
+msgstr "Hej"
+
+#: includes/install.php:70 includes/install.php:192
+msgid "Thank you for singing our petition"
+msgstr "Tack för att du skrev under uppropet"
+
+#: includes/install.php:70 includes/install.php:192
+msgid "Please confirm your email address by clicking the link below:"
+msgstr "Vänligen bekräfta din epostadress genom att klicka denna länk:"
+
+#: includes/install.php:75 includes/install.php:198
+msgid "Latest Signatures"
+msgstr "Senaste underskrifter"
+
+#: includes/petitions.php:46
+msgid "Petition deleted."
+msgstr "Uppropet har raderats."
+
+#: includes/petitions.view.php:9
+msgid "All Petitions"
+msgstr "Alla upprop"
+
+#: includes/petitions.view.php:18 includes/petitions.view.php:27
+msgid "Shortcodes"
+msgstr "Shortcode"
+
+#: includes/petitions.view.php:34
+msgid "No petitions found."
+msgstr "Inget upprop hittades."
+
+#: includes/petitions.view.php:43
+msgid "Edit"
+msgstr "Redigera"
+
+#: includes/petitions.view.php:44 includes/signatures.view.php:98
+msgid "Delete"
+msgstr "Radera"
+
+#: includes/petitions.view.php:54
+msgid "View Signatures"
+msgstr "Granska underskrifter"
+
+#: includes/petitions.view.php:64
+msgid ""
+"Delete this petition permanently? All of the petition's signatures will be "
+"deleted as well."
+msgstr ""
+"Är du säker på att du vill radera uppropet? Alla underskrifter kommer också "
+"att raderas permanent."
+
+#: includes/settings.php:31
+msgid "Settings updated."
+msgstr "Inställningarna har sparats."
+
+#: includes/settings.view.php:25 includes/settings.view.php:32
+#: includes/settings.view.php:86
+msgid "Default"
+msgstr "Standard"
+
+#: includes/settings.view.php:26
+msgid "Basic"
+msgstr "Enkel"
+
+#: includes/settings.view.php:27 includes/settings.view.php:33
+#: includes/settings.view.php:87
+msgid "None"
+msgstr "Ingen"
+
+#: includes/settings.view.php:27 includes/settings.view.php:33
+#: includes/settings.view.php:87
+msgid "use"
+msgstr "använd"
+
+#: includes/settings.view.php:44 includes/settings.view.php:134
+msgid "Accepted variables:"
+msgstr "Möjliga variabler:"
+
+#: includes/settings.view.php:45
+msgid "Accepted tags:"
+msgstr "Möjliga tags:"
+
+#: includes/settings.view.php:63
+msgid "Checked"
+msgstr "Förkryssad"
+
+#: includes/settings.view.php:64
+msgid "Unchecked"
+msgstr "Inte förkryssad"
+
+#: includes/settings.view.php:70
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/settings.view.php:71
+msgid "No"
+msgstr "Nej"
+
+#: includes/settings.view.php:92
+msgid "leave blank to display all"
+msgstr "lämna tomt för att visa alla"
+
+#: includes/settings.view.php:113 includes/signatures.view.php:49
+#: includes/signatures.view.php:61
+msgid "Date"
+msgstr "Datum"
+
+#: includes/settings.view.php:145 includes/settings.view.php:149
+msgid "rows"
+msgstr "rader"
+
+#: includes/settings.view.php:154
+msgid "All signatures"
+msgstr "Alla underskrifter"
+
+#: includes/settings.view.php:155
+msgid "Only opt-in signatures"
+msgstr "Underskrifter som önskar utskick"
+
+#: includes/settings.view.php:156
+msgid "Only double opt-in signatures"
+msgstr "Bekräftade underskrifter som önskar utskick"
+
+#: includes/settings.view.php:156
+msgid "opt-in + confirmed"
+msgstr "utskick + bekräftad"
+
+#: includes/settings.view.php:162
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: includes/signatures.php:48 includes/signatures.php:119
+msgid "All Signatures"
+msgstr "Alla underskrifter"
+
+#: includes/signatures.php:52
+msgid "Signature deleted."
+msgstr "Underskriften har raderats."
+
+#: includes/signatures.php:109
+msgid "Confirmation emails sent."
+msgstr "Bekräftelse-epost har skickats."
+
+#: includes/signatures.view.php:16
+msgid "Select petition"
+msgstr "Välj upprop"
+
+#: includes/signatures.view.php:26
+msgid "Download as CSV"
+msgstr "Ladda ner som CSV-fil"
+
+#: includes/signatures.view.php:27
+msgid "Re-send confirmations"
+msgstr "Skicka om bekräftelse-epost"
+
+#: includes/signatures.view.php:28
+msgid ""
+"Are you sure you want to do this? A separate confirmation email will be sent "
+"for each unconfirmed signature."
+msgstr ""
+"Är du säker? Ett separat epostmeddelande kommer att skickas till alla "
+"underskrifter som inte har bekräftats."
+
+#: includes/signatures.view.php:44 includes/signatures.view.php:56
+msgid "Name"
+msgstr "Namn"
+
+#: includes/signatures.view.php:48 includes/signatures.view.php:60
+msgid "Opt-in"
+msgstr "Vill få utskick"
+
+#: includes/widget.php:15
+msgid "Display a petition form."
+msgstr "Visa ett formulär för uppropet."
+
+#: includes/widget.php:72
+msgid "Sign the Petition"
+msgstr "Skriv under"
+
+#: includes/widget.php:84
+msgid "Sharing URL"
+msgstr "URL för delning"
+
+#: includes/widget.php:85
+msgid "Call to Action"
+msgstr "Skriv på uppropet!"
